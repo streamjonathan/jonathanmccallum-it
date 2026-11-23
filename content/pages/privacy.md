@@ -40,9 +40,11 @@ This site follows the EU's General Data Protection Regulation (GDPR) as its stan
 
 The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
 
-## Children
+## Sotto i 18 anni
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Questo sito non è per persone sotto i 18 anni. Parla della fede in Gesù, e questo è contenuto religioso, quindi è scritto per adulti. Se hai meno di 18 anni, non condividere qui informazioni personali e non scrivere a Jonathan.
+
+In Spagna, la legge dice che un minore di 14 anni ha bisogno del consenso di un genitore o tutore prima di condividere dati personali online. La regola di questo sito è più severa: se hai meno di 18 anni, questo sito non fa per te.
 
 ## Changes
 
