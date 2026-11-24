@@ -72,14 +72,9 @@ Queste canzoni sono in italiano. Questi sono musicisti che cantano in italiano �
 <span class="ig-card__text"><span class="ig-card__name">Marco Frisina</span>
 <span class="ig-card__note">Compositore e sacerdote — la sua musica al servizio della fede.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Dff5UlHjCfe/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/don_giosy_cento.jpg" alt="Giosy Cento" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Giosy Cento</span>
-<span class="ig-card__note">Sacerdote e cantante — canti in italiano.</span></span>
-</a>
 </div>
 
-Mi chiedo quali canzoni ti abbiano sostenuto. Quale canzone ha tenuto viva la tua fede quando le parole sono finite? E di questi dodici, chi ascolteresti per primo?
+Mi chiedo quali canzoni ti abbiano sostenuto. Quale canzone ha tenuto viva la tua fede quando le parole sono finite? E di questi undici, chi ascolteresti per primo?
 
 Fammi sapere che cosa stai ascoltando. Cerco sempre canzoni nuove.
 
