@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Privacy
 
-Questo sito è gestito da Jonathan McCallum, che vive nei Paesi Baschi. È un piccolo sito personale: testi e una chat che risponde a partire da quei testi. Non ci sono account da creare, nessun tracciamento, nessuna pubblicità e niente in vendita. Il sito segue la legge europea sulla privacy (GDPR) per tutti i visitatori, ovunque si trovino nel mondo.
+Questo sito è gestito da Jonathan McCallum, che vive nel Paese basco. È un piccolo sito personale: testi e una chat che risponde a partire da quei testi. Non ci sono account da creare, nessun tracciamento, nessuna pubblicità e niente in vendita. Il sito segue la legge europea sulla privacy (GDPR) per tutti i visitatori, ovunque si trovino nel mondo.
 
 Se devi chiedere qualcosa su questa pagina, o sui tuoi dati personali, scrivi a Jonathan tramite <a href="#" data-contact-email data-contact-email-text>Scrivimi un'email</a>. Puoi anche mandargli un messaggio su [Instagram](https://www.instagram.com/jonamccallum) o [Threads](https://www.threads.com/@jonamccallum).
 
